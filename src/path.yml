@@ -1,0 +1,4 @@
+# Yt-dlp
+PATH="$HOME/.local/bin:$PATH"
+# End Yt-dlp
+
